@@ -24,12 +24,16 @@ To get started with this React application, you will need Node.js and npm instal
 
 3. **Install dependencies:**
 
-   ```npm install
+   ```bash
+   npm install
 
    ```
 
+   
+
 4. **Run the Development Server:**
 
-   ```npm start
+   ```bash
+   npm start
 
    ```
