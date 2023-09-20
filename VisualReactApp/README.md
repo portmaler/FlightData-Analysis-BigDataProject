@@ -2,7 +2,7 @@
 
 This is the React application for visualizing flight data insights generated from the big data project. It provides an interactive interface for users to explore and understand various aspects of flight data.
 
-[!React Application](reactapp.png)
+![React Application](reactapp.png)
 
 ## Getting Started
 
